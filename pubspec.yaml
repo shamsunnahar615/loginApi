@@ -38,6 +38,7 @@ dependencies:
   shared_preferences: ^2.5.4
   dio: ^5.9.1
   flutter_riverpod: ^2.0.0
+  pinput: ^6.0.2
 
 dev_dependencies:
   flutter_test:
